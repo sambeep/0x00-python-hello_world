@@ -1,5 +1,1 @@
-More Classes and Objects
-
-Python
-
-OOP
+more classes and objects
