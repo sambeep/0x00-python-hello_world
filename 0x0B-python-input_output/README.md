@@ -3,7 +3,7 @@ Python
  By: Guillaume
  Weight: 1
  Project will start Sep 27, 2022 6:00 AM, must end by Sep 28, 2022 6:00 AM
- will be released at Sep 27, 2022 12:00 PM
+ was released at Sep 27, 2022 12:00 PM
  An auto review will be launched at the deadline
 Resources
 Read or watch:
