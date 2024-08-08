@@ -1,3 +1,0 @@
-Eveything is object
-:w
-
