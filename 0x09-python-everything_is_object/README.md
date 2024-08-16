@@ -1,0 +1,3 @@
+Eveything is object
+:w
+
